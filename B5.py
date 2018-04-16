@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
-#BOT Autocancel INVITE & AUTO BLOCKADD
-#แก้ไขดัดแปลงโดย [By. ☬ധู้さန້ণق↔ധഖาໄฟ☬]
+# TON ID LINE. tont4. & AUTO BLOCKADD
+#แก้ไขดัดแปลงโดย [By.👹თัՁஆ่❍௦ิढेइะ👹]
 
-import LINEVIT
-from LINEVIT.lib.curve.ttypes import *
+import LINETON
+from LINETON.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
-cl = LINEVIT.LINE()
+cl = LINETON.LINE()
 cl.login(token=" 
 cl.loginResult()
 
